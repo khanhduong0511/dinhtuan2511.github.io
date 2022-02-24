@@ -1,0 +1,7 @@
+tr td img{
+    width: 250px;
+    height: 200px;
+}
+tr td img:hover{
+    transform: scale(1.2);
+}
